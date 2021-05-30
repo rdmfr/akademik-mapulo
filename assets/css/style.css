@@ -1,0 +1,17 @@
+html{
+	scroll-behavior: smooth;
+}
+body{
+	font-family: "Roboto";
+}
+.navbar{
+	background-color: #818A99;
+}
+
+#sidebarMenu{
+	background-color: #9DA4B0;
+}
+
+/* #sidebar ul li > a{
+	color: black;
+} */
